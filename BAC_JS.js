@@ -1,6 +1,6 @@
     $(document).ready(function() {
 
-    $("submitButton").click(CalculateBAC);
+    $("#submitButton").click(CalculateBAC);
 
     function CalculateBAC() {
 
